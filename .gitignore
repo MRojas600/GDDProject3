@@ -68,6 +68,6 @@ DerivedDataCache/*
 
 # Misc
 .log
-FightingGame/FightingGame/Saved/*
-FightingGame/FightingGame/Intermediate/*
-FightingGame/FightingGame/Binaries/
+GDD_Proj_3/Saved/*
+GDD_Proj_3/Intermediate/*
+GDD_Proj_3/Binaries/
